@@ -1,0 +1,806 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8b0d4acf-0eba-44e3-9511-2096795981ce" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Automation/BBILXpTrack/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Automation/BBILXpTrack/.idea/BBILXpTrack.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Automation/BBILXpTrack/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Automation/BBILXpTrack/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Automation/BBILXpTrack/.idea/libraries-with-intellij-classes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Automation/BBILXpTrack/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Automation/BBILXpTrack/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Automation/BBILXpTrack/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Automation/BBILXpTrack/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BRACIT Automation/seleniumfeaturepractice/extent-reports/extent-report.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BRACIT Automation/seleniumfeaturepractice/hs_err_pid16108.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BRACIT Automation/seleniumfeaturepractice/hs_err_pid16304.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BRACIT Automation/seleniumfeaturepractice/hs_err_pid17760.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BRACIT Automation/seleniumfeaturepractice/hs_err_pid23264.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BRACIT Automation/seleniumfeaturepractice/replay_pid16304.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BRACIT Automation/seleniumfeaturepractice/replay_pid17760.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BRACIT Automation/seleniumfeaturepractice/replay_pid23264.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BRACIT Automation/seleniumfeaturepractice/src/test/java/au/foxsports/com/VerifyArticle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BRACIT Automation/seleniumfeaturepractice/src/test/java/au/foxsports/com/VerifyPlayback.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BRACIT Automation/seleniumfeaturepractice/src/test/java/com/orangehrmlive/BaseClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BRACIT Automation/seleniumfeaturepractice/src/test/java/com/orangehrmlive/CategoryTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BRACIT Automation/seleniumfeaturepractice/src/test/java/com/orangehrmlive/ExtentReportListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BRACIT Automation/seleniumfeaturepractice/src/test/java/com/orangehrmlive/GeneralUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BRACIT Automation/seleniumfeaturepractice/src/test/java/com/orangehrmlive/LoginApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BRACIT Automation/seleniumfeaturepractice/src/test/java/com/orangehrmlive/LoginApplicationTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BRACIT Automation/seleniumfeaturepractice/src/test/java/com/orangehrmlive/ReportManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BRACIT Automation/seleniumfeaturepractice/src/test/java/com/orangehrmlive/ReportTestManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BRACIT Automation/seleniumfeaturepractice/src/test/java/com/orangehrmlive/TestListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BRACIT Automation/seleniumfeaturepractice/src/test/java/com/report/ReportManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BRACIT Automation/seleniumfeaturepractice/src/test/java/com/report/ReportTestManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BRACIT Automation/seleniumfeaturepractice/src/test/java/com/report/TestListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BRACIT Automation/seleniumfeaturepractice/src/test/resources/testng.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MF seperation OCT Cases/OTC-MF Seperation plan.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Official/VPN Con Info 2/BRACIT.ovpn" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Official/VPN Con Info 2/secret" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Official/gitLabProjects/brac-erpapitestautomation/src/test/java/net/brac/api/rest/test/BaseApiTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Official/gitLabProjects/brac-erpapitestautomation/src/test/java/net/brac/api/rest/test/bdErp/BaseBdErpTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SLA/SALBatchTwoJava/SALBatchTwoJava.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SLA/jenkinsbatchfour/jenkinsbatchfour.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../selenium/seleniumfeatures/.gradle/6.8/executionHistory/executionHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../selenium/seleniumfeatures/.gradle/6.8/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../selenium/seleniumfeatures/.gradle/6.8/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../selenium/seleniumfeatures/.gradle/6.8/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../selenium/seleniumfeatures/.gradle/6.8/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../selenium/seleniumfeatures/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../selenium/seleniumfeatures/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../selenium/seleniumfeatures/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../selenium/seleniumfeatures/.gradle/configuration-cache/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../selenium/seleniumfeatures/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../selenium/seleniumfeatures/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../selenium/seleniumfeatures/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../selenium/seleniumfeatures/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../selenium/seleniumfeatures/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../selenium/seleniumfeatures/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../selenium/seleniumfeatures/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../selenium/seleniumfeatures/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../selenium/seleniumfeatures/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../selenium/seleniumfeatures/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../selenium/seleniumfeatures/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../selenium/seleniumfeatures/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../selenium/seleniumfeatures/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../seleniumbatch7/.idea/seleniumbatch7.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.8/executionHistory/executionHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.8/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.8/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.8/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.8/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/checksums/md5-checksums.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/configuration-cache/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries-with-intellij-classes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/seleniumfeature.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/compileTestJava/source-classes-mapping.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/HandlingDropDownListValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/HandlingRadioButtonCheckbox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/OrangeHrmLogin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SLABatchFour/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SLABatchFour/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SLAJavaBatchFour/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SLAJavaBatchFour/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SLAJavaBatchFour/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SLAJavaBatchFour/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SLAJavaBatchFour/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SLAJavaBatchFour/SLAJavaBatchFour.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SLAJavaBatchFour/src/Animal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SLAJavaBatchFour/src/Bank.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SLAJavaBatchFour/src/Cat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SLAJavaBatchFour/src/Dog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SLAJavaBatchFour/src/ForLoop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SLAJavaBatchFour/src/GenericTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SLAJavaBatchFour/src/HelloWorld.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SLAJavaBatchFour/src/IfElseIfStatement.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SLAJavaBatchFour/src/IngheritanceTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SLAJavaBatchFour/src/Interface.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SLAJavaBatchFour/src/InterfaceTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SLAJavaBatchFour/src/JavaGeneric.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SLAJavaBatchFour/src/KrishiBank.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SLAJavaBatchFour/src/MethodOverloading.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SLAJavaBatchFour/src/MethodOverloadingTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SLAJavaBatchFour/src/MethodOverriding.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SLAJavaBatchFour/src/MethodOverridingTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SLAJavaBatchFour/src/NonGenericInteger.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SLAJavaBatchFour/src/NonGenericString.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SLAJavaBatchFour/src/NonGenericTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SLAJavaBatchFour/src/OrangeHrmLogin.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SLAJavaBatchFour/src/Printable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SLAJavaBatchFour/src/Showable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SLAJavaBatchFour/src/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SLAJavaBatchFour/src/StudentTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SLAJavaBatchFour/src/Summution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumFeaturespractice/.gradle/6.8/executionHistory/executionHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumFeaturespractice/.gradle/6.8/executionHistory/executionHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumFeaturespractice/.gradle/6.8/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumFeaturespractice/.gradle/6.8/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumFeaturespractice/.gradle/6.8/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumFeaturespractice/.gradle/6.8/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumFeaturespractice/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumFeaturespractice/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumFeaturespractice/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumFeaturespractice/.gradle/checksums/checksums.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumFeaturespractice/.gradle/checksums/sha1-checksums.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumFeaturespractice/.gradle/configuration-cache/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumFeaturespractice/.gradle/vcs-1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumFeaturespractice/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumFeaturespractice/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumFeaturespractice/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumFeaturespractice/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumFeaturespractice/.idea/libraries-with-intellij-classes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumFeaturespractice/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumFeaturespractice/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumFeaturespractice/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumFeaturespractice/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumFeaturespractice/build/classes/java/test/com/orangehrm/BaseClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumFeaturespractice/build/classes/java/test/com/orangehrm/SeleniumPractice.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumFeaturespractice/build/classes/java/test/com/orangehrm/TestNGLogin.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumFeaturespractice/build/reports/tests/test/classes/com.orangehrm.TestNGLogin.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumFeaturespractice/build/reports/tests/test/css/base-style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumFeaturespractice/build/reports/tests/test/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumFeaturespractice/build/reports/tests/test/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumFeaturespractice/build/reports/tests/test/js/report.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumFeaturespractice/build/reports/tests/test/packages/com.orangehrm.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumFeaturespractice/build/resources/test/testng.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumFeaturespractice/build/test-results/test/TEST-com.orangehrm.TestNGLogin.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumFeaturespractice/build/test-results/test/binary/output.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumFeaturespractice/build/test-results/test/binary/output.bin.idx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumFeaturespractice/build/test-results/test/binary/results.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumFeaturespractice/build/tmp/compileTestJava/source-classes-mapping.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumFeaturespractice/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumFeaturespractice/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumFeaturespractice/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumFeaturespractice/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumFeaturespractice/hs_err_pid108.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumFeaturespractice/src/test/java/JavaJenkinsTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumFeaturespractice/src/test/java/JavaLoop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumFeaturespractice/src/test/java/com/orangehrm/BaseClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumFeaturespractice/src/test/java/com/orangehrm/SeleniumPractice.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumFeaturespractice/src/test/java/com/orangehrm/TestNGLogin.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumFeaturespractice/src/test/java/com/orangehrm/WelcomePage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumFeaturespractice/src/test/resources/testng.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/docker-compose.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/component/BaseComponent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/component/Calendar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/component/CalendarPicker.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/component/Modules.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/component/SelectComponent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/component/Table.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/component/accounting/cashmanagement/CurrencyDenominationItem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/component/accounting/voucher/JournalVoucherItem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/component/accounting/voucher/VoucherItem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/component/fixedasset/CommonModalDetail.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/component/fixedasset/disposal/WrittenOffAssetItem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/component/fixedasset/profile/GlobalAssetSerialItem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/component/fixedasset/registration/AssetRegistrationItem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/component/hrm/employee/Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/component/hrm/jobSeparation/HrProposalItem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/component/hrm/jobSeparation/JobSeparationProposalItem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/component/hrm/jobSeparation/OfficeWiseEmployee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/component/microfinance/TableItem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/component/microfinance/loan/LoanItem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/component/microfinance/loan/collection/LoanAccountItem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/component/microfinance/loan/collection/LoanCollectionItem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/component/microfinance/loan/collection/Nibl2LoanCollectionItem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/component/microfinance/loan/disbursement/DisbursedLoanItem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/component/microfinance/loan/disbursement/GoodCustomerLoanDisbursementItem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/component/microfinance/loan/disbursement/LoanAccountItem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/component/microfinance/loan/disbursement/UpgMemberItem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/component/microfinance/loan/proposal/ApprovedLoanItem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/component/microfinance/loan/proposal/UnApproveLoanItem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/component/microfinance/loan/proposal/approvedGoodCustomerLoan.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/component/microfinance/loan/reconciliation/LoanAndSavingsCollectionReconciliationItem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/component/microfinance/loan/reconciliation/VoCollectionReconciliationItem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/component/microfinance/member/IncidentItem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/component/microfinance/member/MemberDetail.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/component/microfinance/member/MemberItem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/component/microfinance/member/microinsurance/LoanDetailItem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/component/microfinance/savings/CurrentSavingsAccountItem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/component/microfinance/savings/IndividualSavingsCollectionItem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/component/microfinance/savings/SavingsAccountItem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/component/microfinance/savings/SavingsWithdrawalItem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/component/microfinance/savings/SpecialSavingsAccountItem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/component/microfinance/savings/VoluntarySavingsAccountItem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/component/microfinance/vo/VoItem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/component/procurement/RequisitionAcceptItem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/component/procurement/RequisitionApproveItem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/component/procurement/RequisitionItem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/component/procurement/billpayable/BillPayableItem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/component/procurement/itemreceive/ItemReceiveItem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/component/procurement/process/ProcessRequisitionItem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/component/procurement/process/TenderCommitteeFormationItem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/component/procurement/purchaseorder/DirectPurchaseItem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/page/BasePage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/page/Button.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/page/ErpWait.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/page/FixedAssetWithProject.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/page/LoginPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/page/MyDashboardPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/page/SelectValueFromDropDown.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/page/SelectValueFromFlexBox.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/page/accounting/BaseAccountingPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/page/accounting/admin/generalSetting/BusinessDayClosePage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/page/accounting/admin/generalSetting/BusinessDayOpenPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/page/accounting/admin/generalSetting/BusinessMonthClosePage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/page/accounting/cashmanagement/CurrencyDenominationPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/page/accounting/voucher/CreditVouchersPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/page/accounting/voucher/DebitVouchersPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/page/accounting/voucher/JournalVouchersPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/page/accounting/voucher/StaffBillPaymentPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/page/accounting/voucher/TransferVoucherPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/page/accounting/voucher/VoucherPostingPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/page/accounting/voucher/VoucherSearchPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/page/accounting/voucher/iou/CreateIouPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/page/fixedasset/BaseFixedAssetPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/page/fixedasset/assetdisposal/AssetSaleApprovalListPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/page/fixedasset/assetdisposal/AssetSaleListPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/page/fixedasset/assetdisposal/AssetSalePage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/page/fixedasset/assetdisposal/AssetWriteOffApprovalListPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/page/fixedasset/assetdisposal/AssetWriteOffListPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/page/fixedasset/assetdisposal/AssetWriteOffPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/page/fixedasset/assetdisposal/OfflineTransferApprovalListPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/page/fixedasset/assetdisposal/OfflineTransferListPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/page/fixedasset/assetdisposal/OfflineTransferPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/page/fixedasset/assetexpenditure/AssetAdditionFromInventoryApprovalPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/page/fixedasset/assetexpenditure/AssetAdditionFromInventoryListPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/page/fixedasset/assetexpenditure/AssetAdditionFromInventoryPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/page/fixedasset/assetexpenditure/AssetAdditionFromVendorApprovalPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/page/fixedasset/assetexpenditure/AssetAdditionFromVendorListPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/page/fixedasset/assetexpenditure/AssetAdditionFromVendorPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/page/fixedasset/assetexpenditure/AssetExpenseApprovalListPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/page/fixedasset/assetexpenditure/AssetExpenseListPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/page/fixedasset/assetexpenditure/AssetExpensePage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/page/fixedasset/assetprofile/AssetInPendingProcessListPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/page/fixedasset/assetprofile/AssetSerialGlobalListPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/page/fixedasset/assetprofile/GenerateBarcodePage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/page/fixedasset/assettransaction/AssetAssignPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/page/fixedasset/assettransaction/AssetInternalMovementPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/page/fixedasset/assettransaction/AssetUnAssignPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/page/fixedasset/assettransaction/TransactionApprovalListPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/page/fixedasset/assettransaction/TransactionListPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/page/fixedasset/assettransfer/AssetShipmentChallanApprovalListPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/page/fixedasset/assettransfer/AssetShipmentDetailsPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/page/fixedasset/assettransfer/AssetShipmentInChallanPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/page/fixedasset/assettransfer/AssetShipmentPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/page/fixedasset/assettransfer/GatePassGenerationPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/page/fixedasset/depreciation/AssetDepreciationScheduleListPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/page/fixedasset/registration/AssetRegistrationApprovalListPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/page/fixedasset/registration/AssetRegistrationByAaqPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/page/fixedasset/registration/AssetRegistrationListPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/page/fixedasset/registration/OfflineAssetReceiveApprovalListPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/page/fixedasset/registration/OfflineAssetReceiveListPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/page/fixedasset/registration/OfflineAssetReceivePage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/page/fixedasset/singlechallan/AssetReceivableListPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/page/fixedasset/singlechallan/AssetReturnableListPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/page/fixedasset/singlechallan/AssetSingleInChallanPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/page/fixedasset/singlechallan/AssetSingleOutChallanApprovalListPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/page/fixedasset/singlechallan/AssetSingleOutChallanPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/page/fixedasset/singlechallan/SingleChallanGatePassGenerationPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/page/hrm/BaseHrmPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/page/hrm/HigherStudies/HigherStudies/ApplicationForHigherStudiesAndTrainingPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/page/hrm/jobSeparation/CreateJobSeparationProposalPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/page/hrm/jobSeparation/EmployeeJobSeparationProposalPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/page/hrm/jobSeparation/HrProposalListForJobSeparationPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/page/hrm/jobSeparation/JobSeparationDetailPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/page/hrm/jobSeparation/JobSeparationProposalListPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/page/hrm/jobSeparation/ProposalListForJobSeparationPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/page/hrm/pms/setup/CreateObjectiveTypePage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/page/hrm/register/employee/BaseEmployeePage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/page/hrm/register/employee/EmployeeDetailsInformationPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/page/hrm/register/employee/EmployeeDetailsPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/page/hrm/register/employee/EmployeeListPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/page/hrm/register/employee/EmployeeNotVerifyListPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/page/hrm/register/employee/EmployeeVerifyListPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/page/hrm/register/employee/NewEmployeeSetupPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/page/hrm/register/employee/SearchEmployeePage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/page/hrm/register/employee/employeeDetailsInformation/AddressesPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/page/microfinance/BaseLoanFlow.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/page/microfinance/BaseMicroFinancePage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/page/microfinance/MicroFinance.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/page/microfinance/loan/AssignAndUseVouchersPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/page/microfinance/loan/LoanCalculatorPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/page/microfinance/loan/collection/IndividualLoanCollectionPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/page/microfinance/loan/collection/LoanAdjustmentWithSavingsPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/page/microfinance/loan/collection/LoanCollectionListPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/page/microfinance/loan/collection/LoanCollectionModificationPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/page/microfinance/loan/collection/LoanSettlementWithSavingsPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/page/microfinance/loan/collection/MemberLoanCollectionProgotiPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/page/microfinance/loan/collection/Nibl2CollectionListPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/page/microfinance/loan/collection/Nibl2OrBadLoanCollectionPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/page/microfinance/loan/collection/SmartCollectionPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/page/microfinance/loan/collection/VoWiseLoanCollectionPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/page/microfinance/loan/disbursement/DeleteDisbursedLoanPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/page/microfinance/loan/disbursement/DisbursedLoanListPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/page/microfinance/loan/disbursement/GoodCustomerLoanDisbursementPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/page/microfinance/loan/disbursement/LoanDisbursementPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/page/microfinance/loan/disbursement/LoanModificationPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/page/microfinance/loan/disbursement/LoanSearchPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/page/microfinance/loan/disbursement/RefinancingPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/page/microfinance/loan/disbursement/ReschedulingPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/page/microfinance/loan/disbursement/ShowLoanAccountPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/page/microfinance/loan/disbursement/UpgAssetPurchaseAndDistributionPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/page/microfinance/loan/disbursement/UpgAssetPurchaseDistributionPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/page/microfinance/loan/disbursement/UpgMemberListPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/page/microfinance/loan/proposal/ApproveGoodCustomerLoanPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/page/microfinance/loan/proposal/ApproveLoanPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/page/microfinance/loan/proposal/ApprovedGoodCustomerLoanListPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/page/microfinance/loan/proposal/ApprovedLoanListPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/page/microfinance/loan/proposal/GoodCustomerLoanProposalListPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/page/microfinance/loan/proposal/GoodCustomerLoanProposalPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/page/microfinance/loan/proposal/LoanProposalListPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/page/microfinance/loan/proposal/LoanProposalSetupPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/page/microfinance/loan/reconcillation/LoanAndSavingsCollectionReconciliationListPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/page/microfinance/loan/reconcillation/LoanAndSavingsCollectionReconciliationPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/page/microfinance/loan/reconcillation/LoanAndSavingsCollectionReconciliationStatus.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/page/microfinance/loan/reconcillation/RectifyLoanAndSavingsCollectionReconciliationPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/page/microfinance/loan/reconcillation/ZeroVoLoanCollectionPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/page/microfinance/loan/reconcillation/ZeroVoSavingsCollectionPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/page/microfinance/loan/writeoff/LoanWriteOffPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/page/microfinance/loan/writeoff/WrittenOffLoanListPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/page/microfinance/member/incidentsetup/IncidentListPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/page/microfinance/member/incidentsetup/IncidentSetupPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/page/microfinance/member/member/AssetInfoPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/page/microfinance/member/member/DocumentInfoPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/page/microfinance/member/member/FamilyInfoPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/page/microfinance/member/member/MemberDetailPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/page/microfinance/member/member/MemberListPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/page/microfinance/member/member/MemberProfilePage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/page/microfinance/member/member/MemberSetupPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/page/microfinance/member/member/PassbookManagementPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/page/microfinance/member/member/PhotoPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/page/microfinance/member/member/ProgotiMemberSetupFormPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/page/microfinance/member/member/ShowMemberPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/page/microfinance/member/member/SignatureInfoPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/page/microfinance/member/microinsurance/BaseUpdateMicroInsurancePolicyInfoPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/page/microfinance/member/microinsurance/HeadOfficeUpdateMicroInsurancePolicyInfoPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/page/microfinance/member/microinsurance/InsuranceModificationPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/page/microfinance/member/microinsurance/InsuranceSettlementPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/page/microfinance/member/microinsurance/ReceiveCreditAdvicePage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/page/microfinance/member/microinsurance/UpdateInsurancePremiumPolicyPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/page/microfinance/member/microinsurance/UpdateMicroInsurancePolicyInfoPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/page/microfinance/member/microinsurance/UserUpdateMicroInsurancePolicyInfoPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/page/microfinance/report/collection/DateWiseLoanOutstandingReportPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/page/microfinance/report/collection/LoanCollectionSummaryPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/page/microfinance/report/loanMiscellaneous/LoanOutstandingReportPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/page/microfinance/report/member/CollectionSlipPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/page/microfinance/saving/compulsory/IndividualSavingsCollectionPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/page/microfinance/saving/compulsory/SavingsAccountListPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/page/microfinance/saving/compulsory/SavingsCollectionListPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/page/microfinance/saving/compulsory/SavingsCollectionModificationPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/page/microfinance/saving/compulsory/SavingsWithdrawalListPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/page/microfinance/saving/compulsory/SavingsWithdrawalPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/page/microfinance/saving/compulsory/VoSavingsCollectionPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/page/microfinance/saving/current/CurrentSavingsAccountListPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/page/microfinance/saving/current/CurrentSavingsCollectionPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/page/microfinance/saving/current/CurrentSavingsTransListPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/page/microfinance/saving/current/CurrentSavingsWithdrawalPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/page/microfinance/saving/current/NewCurrentSavingsAccountPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/page/microfinance/saving/special/MonthlyProfitWithdrawalPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/page/microfinance/saving/special/SpecialSavingsAccountListPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/page/microfinance/saving/special/SpecialSavingsAccountSetupPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/page/microfinance/saving/special/SpecialSavingsCollectionModificationPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/page/microfinance/saving/special/SpecialSavingsCollectionPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/page/microfinance/saving/special/SpecialSavingsCorrectionPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/page/microfinance/saving/special/SpecialSavingsRefundPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/page/microfinance/saving/special/VoluntarySavingsAccountsActivationPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/page/microfinance/vo/vo/ChangeVoMeetingDayPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/page/microfinance/vo/vo/VoDetailPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/page/microfinance/vo/vo/VoListPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/page/microfinance/vo/vo/VoSetupPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/page/procurement/BaseProcurementPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/page/procurement/FormSubmitButton.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/page/procurement/billpayable/BillDetailsInformationPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/page/procurement/billpayable/CreateVendorBillPayablePage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/page/procurement/billpayable/VendorBillingListPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/page/procurement/itemreceive/ItemReceivePage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/page/procurement/process/ProcurementProcessInitiationPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/page/procurement/purchaseorder/directpurchase/DirectPurchaseListPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/page/procurement/purchaseorder/directpurchase/DirectPurchaseOrderInformationPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/page/procurement/requisition/CreateRequisitionPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/page/procurement/requisition/RequisitionApproveListPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/page/procurement/requisition/RequisitionDetailsPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/page/procurement/requisition/RequisitionInitiatorListPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/page/procurement/requisition/RequisitionListPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/page/procurement/requisition/assign/AssignRequisitionPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/page/procurement/requisition/assign/RequisitionAcceptListPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/test/BaseAuthenticatedTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/test/BaseTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/test/RerunningCount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/test/TestListener.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/test/accounting/AccountingSmokeSuiteTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/test/accounting/Iou/IoutTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/test/accounting/admin/generalSetting/BusinessDayCloseTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/test/accounting/admin/generalSetting/BusinessDayOpenCloseMonthCloseTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/test/accounting/admin/generalSetting/BusinessDayOpenTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/test/accounting/voucher/CreditVouchersTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/test/accounting/voucher/DebitVouchersTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/test/accounting/voucher/JournalVouchersTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/test/accounting/voucher/StaffBillPaymentTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/test/accounting/voucher/TransferVouchersTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/test/accounting/voucher/VoucherPostingTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/test/accounting/voucher/VoucherSearchTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/test/apis/pojo/DpsTransactionsData.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/test/apis/pojo/PutClaimSettlement.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/test/apis/pojo/SeasonalLoanData.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/test/apis/pojo/SpsInfoData.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/test/apis/pojo/StoreSPSCollectionInfoResponse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/test/apis/pojo/StoreSPSCollectionInfoResponseData.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/test/apis/pojo/StoreSpsCollectionInfoData.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/test/apis/pojo/TransactionsTermSavingsData.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/test/fixedasset/FixedAssetSmokeSuiteTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/test/fixedasset/assetdisposal/AssetSaleApprovalListTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/test/fixedasset/assetdisposal/AssetSaleListTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/test/fixedasset/assetdisposal/AssetSaleTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/test/fixedasset/assetdisposal/AssetWriteOffApprovalListTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/test/fixedasset/assetdisposal/AssetWriteOffListTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/test/fixedasset/assetdisposal/AssetWriteOffTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/test/fixedasset/assetdisposal/OfflineTransferApprovalListTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/test/fixedasset/assetdisposal/OfflineTransferListTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/test/fixedasset/assetdisposal/OfflineTransferTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/test/fixedasset/assetexpenditure/AssetAdditionFromInventoryApprovalTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/test/fixedasset/assetexpenditure/AssetAdditionFromInventoryListTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/test/fixedasset/assetexpenditure/AssetAdditionFromInventoryTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/test/fixedasset/assetexpenditure/AssetAdditionFromVendorApprovalTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/test/fixedasset/assetexpenditure/AssetAdditionFromVendorListTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/test/fixedasset/assetexpenditure/AssetAdditionFromVendorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/test/fixedasset/assetexpenditure/AssetExpenseApprovalListTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/test/fixedasset/assetexpenditure/AssetExpenseListTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/test/fixedasset/assetexpenditure/AssetExpenseTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/test/fixedasset/assetprofile/AssetInPendingProcessListTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/test/fixedasset/assetprofile/AssetSerialGlobalListTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/test/fixedasset/assetprofile/GenerateBarcodeTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/test/fixedasset/assettransaction/AssetAssignTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/test/fixedasset/assettransaction/AssetInternalMovementTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/test/fixedasset/assettransaction/AssetUnAssignTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/test/fixedasset/assettransaction/TransactionApprovalListTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/test/fixedasset/assettransaction/TransactionListTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/test/fixedasset/assettransfer/AssetShipmentChallanApprovalListTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/test/fixedasset/assettransfer/AssetShipmentDetailsTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/test/fixedasset/assettransfer/AssetShipmentInChallanTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/test/fixedasset/assettransfer/AssetShipmentTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/test/fixedasset/assettransfer/GatePassGenerationTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/test/fixedasset/depreciation/AssetDepreciationScheduleListTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/test/fixedasset/registration/AssetRegistrationApprovalListTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/test/fixedasset/registration/AssetRegistrationByAaqTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/test/fixedasset/registration/AssetRegistrationListTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/test/fixedasset/registration/OfflineAssetReceiveApprovalListTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/test/fixedasset/registration/OfflineAssetReceiveListTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/test/fixedasset/registration/OfflineAssetReceiveTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/test/fixedasset/singlechallan/AssetReceivableListTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/test/fixedasset/singlechallan/AssetReturnableListTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/test/fixedasset/singlechallan/AssetSingleInChallanTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/test/fixedasset/singlechallan/AssetSingleOutChallanApprovalListTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/test/fixedasset/singlechallan/AssetSingleOutChallanTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/test/fixedasset/singlechallan/SingleChallanGatePassGenerationTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/test/global/LoginTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/test/hrm/HigherStudies/HigherStudies/ApplicationForHigherStudiesAndTrainingTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/test/hrm/HrmSmokeSuiteTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/test/hrm/jobSeparation/EmployeeJobSeparationTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/test/hrm/pms/setup/CreateObjectiveTypeTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/test/hrm/register/employee/EmployeeDetailsInformationTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/test/hrm/register/employee/EmployeeVerifyListTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/test/hrm/register/employee/NewEmployeeSetupTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/test/microfinance/ScriptForBadTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/test/microfinance/UpgProgrammeTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/test/microfinance/flow/BaseGoodCustomerLoanFlowTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/test/microfinance/flow/BaseLoanFlowTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/test/microfinance/flow/DpsSpecialSavingsFlowTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/test/microfinance/flow/IntegrationMicroInsuranceFlowTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/test/microfinance/flow/SeasonalLoanFlowTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/test/microfinance/flow/agri/AgriBusinessGoodCustomLoanFLowTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/test/microfinance/flow/agri/AgriBusinessLoanFlowTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/test/microfinance/flow/dabi/DabiGoodCustomLoanFLowTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/test/microfinance/flow/dabi/DabiLoanFlowTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/test/microfinance/flow/progoti/ProgotiGoodCustomLoanFLowTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/test/microfinance/flow/progoti/ProgotiGoodCustomLoanFLowTestTwo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/test/microfinance/flow/progoti/ProgotiLoanFlowTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/test/microfinance/flow/sms/SmsTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/test/microfinance/flow/upg/UpgAssetPurchaseAndDistributionFlow.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/test/microfinance/flow/upg/UpgProgrammeLoanFlowTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/test/microfinance/flow/upg/upgProgrammeGoodCustomLoanFLowTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/test/microfinance/loan/AssignAndUseVouchersTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/test/microfinance/loan/LoanCalculatorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/test/microfinance/loan/collection/IndividualLoanCollectionTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/test/microfinance/loan/collection/MemberLoanCollectionProgotiTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/test/microfinance/loan/collection/SmartCollectionTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/test/microfinance/loan/collection/VoWiseLoanCollectionTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/test/microfinance/loan/disbursement/AgriBusinessGoodCustomerLoanDisbursedListTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/test/microfinance/loan/disbursement/DabiDisbursedLoanListTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/test/microfinance/loan/disbursement/DabiGoodCustomerLoanDisbursedListTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/test/microfinance/loan/disbursement/GoodCustomerLoanDisbursementTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/test/microfinance/loan/disbursement/LoanDisbursementTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/test/microfinance/loan/disbursement/ProgotiGoodCustomerLoanDisbursedListTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/test/microfinance/loan/proposal/AgriBusinessApproveGoodCustomerLoanTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/test/microfinance/loan/proposal/AgriBusinessApprovedGoodCustomerLoanListTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/test/microfinance/loan/proposal/AgriBusinessGoodCustomerLoanProposalListTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/test/microfinance/loan/proposal/AgriBusinessGoodCustomerLoanProposalTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/test/microfinance/loan/proposal/AngriBusinessApprovedGoodCustomerLoanListTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/test/microfinance/loan/proposal/ApproveLoanTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/test/microfinance/loan/proposal/ApprovedGoodCustomerLoanListTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/test/microfinance/loan/proposal/ApprovedLoanListTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/test/microfinance/loan/proposal/DabiApproveGoodCustomerLoanTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/test/microfinance/loan/proposal/DabiApprovedGoodCustomerLoanListTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/test/microfinance/loan/proposal/DabiGoodCustomerLoanProposalListTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/test/microfinance/loan/proposal/DabiGoodCustomerLoanProposalTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/test/microfinance/loan/proposal/LoanProposalListTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/test/microfinance/loan/proposal/LoanProposalSetupTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/test/microfinance/loan/proposal/ProgitiApprovedGoodCustomerLoanListTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/test/microfinance/loan/proposal/ProgotiApproveGoodCustomerLoanTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/test/microfinance/loan/proposal/ProgotiApprovedGoodCustomerLoanListTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/test/microfinance/loan/proposal/ProgotiGoodCustomerLoanProposalTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/test/microfinance/loan/proposal/ProgotoGoodCustomerLoanProposalListTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/test/microfinance/loan/proposal/RejectLoanTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/test/microfinance/loan/reconcillation/LoanSavingsCollectionReconciliationTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/test/microfinance/member/incidentsetup/IncidentTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/test/microfinance/member/incidentsetup/IncidentUpgProgrammeTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/test/microfinance/member/member/MemberListTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/test/microfinance/member/member/MemberProfileTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/test/microfinance/member/member/MemberSetupTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/test/microfinance/member/member/PassbookManagementTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/test/microfinance/member/member/UpdateMemberSetupTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/test/microfinance/member/member/dabiMemberSetupTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/test/microfinance/member/member/progotiMemberSetupTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/test/microfinance/member/microinsurance/HeadOfficeUpdateMicroInsurancePolicyInfoTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/test/microfinance/member/microinsurance/InsuranceModificationTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/test/microfinance/member/microinsurance/InsuranceSettlementTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/test/microfinance/member/microinsurance/ReceiveCreditAdviceSettlementTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/test/microfinance/member/microinsurance/ReceiveCreditAdviceTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/test/microfinance/member/microinsurance/UpdateInsurancePremiumPolicyTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/test/microfinance/member/microinsurance/UserUpdateMicroInsurancePolicyInfoTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/test/microfinance/report/collection/DateWiseLoanOutstandingReportTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/test/microfinance/report/collection/LoanCollectionSummaryTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/test/microfinance/report/loanMiscellaneous/LoanOutstandingReportTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/test/microfinance/report/member/CollectionSlipTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/test/microfinance/saving/compulsory/BaseCompulsorySavingsTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/test/microfinance/saving/compulsory/CompulsorySavingsTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/test/microfinance/saving/compulsory/UpgProgrammeCompulsorySavingsTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/test/microfinance/saving/current/BaseCurrentSavingsTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/test/microfinance/saving/current/CurrentSavingsTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/test/microfinance/saving/current/DabiCurrentSavingsFlowTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/test/microfinance/saving/current/ProgotiCurrentSavingsFlowTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/test/microfinance/saving/special/BaseSpecialSavingsTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/test/microfinance/saving/special/SpecialSavingsTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/test/microfinance/saving/special/UpgProgrammeSpecialSavingsTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/test/microfinance/smoketest/MicroFinanceSmokeTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/test/microfinance/vo/vo/ChangeVoMeetingDayTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/test/microfinance/vo/vo/VoSetupTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/test/multipleusertest/BaseMultipleUserTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/test/multipleusertest/procurement/requisition/RequisitionTestFlowTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/test/procurement/ProcurementSmokeSuiteTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/test/procurement/billpayable/CreateVendorBillPayableTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/test/procurement/billpayable/VendorBillingListTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/test/procurement/itemreceive/ItemReceiveTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/test/procurement/process/ProcurementProcessInitiationTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/test/procurement/purchaseorder/directpurchase/DirectPurchaseListTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/test/procurement/purchaseorder/directpurchase/DirectPurchaseOrderInformationTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/test/procurement/requisition/RequisitionApproveListTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/test/procurement/requisition/RequisitionTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/test/procurement/requisition/assign/AssignRequisitionTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/test/procurement/requisition/assign/RequisitionAcceptListTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/util/Credential.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/util/CredentialException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/util/CredentialStore.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/util/Device.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/util/EmailUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/util/GeneralUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/util/JavaScriptUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/util/ReadAndWriteProperties.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/util/SupportedWebDriver.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/util/TargetDevice.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/util/enums/ErpOrder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/util/enums/GbbRejectionReason.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/util/enums/Incident.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/util/enums/Month.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/util/enums/Operation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/util/enums/PaymentMode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/util/enums/PaymentSubType.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/util/enums/Product.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/util/enums/Project.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/util/enums/Status.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/java/net/brac/web/fluentlenium/util/enums/VoCategory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/resources/accounting-smoke-suite.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/resources/credentials.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/resources/dynamicVariables.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/resources/fixedasset-smoke-suite.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/resources/fluentlenium.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/resources/hrm-suite.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/resources/insurance-suite.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/resources/mf-smoke-suite.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/resources/mfregression-suite.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/resources/oneclass-suite.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/resources/procurement-smoke-suite.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/resources/procurement-suite.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/resources/regression-suite.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/resources/smoke-suite.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/src/test/resources/smokeGrid-suite.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/webdriver/gecko/geckodriver-v0.30.0.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-masidul_day_open_close/webdriver/gecko/v0.30.0/geckodriver.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-master/webdriver/gecko/geckodriver-v0.30.0.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brac-erptestautomation-master/webdriver/gecko/v0.30.0/geckodriver.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../githubPractice/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../githubPractice/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../githubPractice/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../githubPractice/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../githubPractice/githubPractice.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../githubPractice/src/HelloWorld.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gitpracticesla/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gitpracticesla/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gitpracticesla/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gitpracticesla/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gitpracticesla/gitpracticesla.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gitpracticesla/src/HelloWorld.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaoop/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaoop/javaoop.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jenkinsbatcfour/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jenkinsbatcfour/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jenkinsbatcfour/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jenkinsbatcfour/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jenkinsbatcfour/jenkinsbatcfour.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jenkinsbatcfour/src/JavaForLoop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jenkinsbatcfour/src/JavaForLoop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jenkinsbatchfour/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jenkinsbatchfour/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jenkinsbatchfour/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jenkinsbatchfour/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jenkinsbatchfour/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jenkinsbatchfour/jenkinsbatchfour.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jenkinsbatchfour/src/JavaForLoopTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jenkinsbatchfour/src/JavaForLoopTest.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="2cSJuEhLbVHFeZJUzV0PGQF8HfV" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
+  </component>
+  <component name="RunManager" selected="Application.HandlingDropDownListValue">
+    <configuration name="HandlingDropDownListValue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="seleniumfeatures.HandlingDropDownListValue" />
+      <module name="seleniumfeatures.test" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HandlingRadioButtonCheckbox" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="seleniumfeatures.HandlingRadioButtonCheckbox" />
+      <module name="seleniumfeatures.test" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrangeHrmLogin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="seleniumfeatures.OrangeHrmLogin" />
+      <module name="seleniumfeatures.test" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.HandlingDropDownListValue" />
+        <item itemvalue="Application.HandlingRadioButtonCheckbox" />
+        <item itemvalue="Application.OrangeHrmLogin" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8b0d4acf-0eba-44e3-9511-2096795981ce" name="Default Changelist" comment="" />
+      <created>1708099269052</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1708099269052</updated>
+      <workItem from="1708099271244" duration="197000" />
+      <workItem from="1708099512124" duration="3909000" />
+      <workItem from="1708245500661" duration="7145000" />
+      <workItem from="1708269026503" duration="6439000" />
+      <workItem from="1708432617287" duration="1043000" />
+      <workItem from="1708442268683" duration="6141000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>

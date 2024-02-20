@@ -1,0 +1,3 @@
+rootProject.name = 'seleniumfeatures'
+include 'seleniumfeature'
+
